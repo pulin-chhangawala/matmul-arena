@@ -1,0 +1,3 @@
+matmul-arena
+*.o
+results/
